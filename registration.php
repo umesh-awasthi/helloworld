@@ -2,7 +2,7 @@
 // Configuration
 $dbHost = 'localhost';
 $dbUsername = 'root';
-$dbPassword = '';
+$dbPassword = 'root';
 $dbName = 'registration';
 
 // Create connection
